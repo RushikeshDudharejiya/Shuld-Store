@@ -1,0 +1,152 @@
+.img-banner{
+    width: 100%;
+    height: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.img-banner-out{
+    height: 75vh;
+}
+.naruto-head{
+    margin: 2rem;
+}
+.naruto-h3{
+    font-weight: 700;
+    font-size: 1.75rem;
+}
+.naruto-cloth-img{
+    width: 100%;
+    height: 100%;
+}
+.naruto-cloth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-naruto{
+    width: 100%;
+    height: 100vh;
+}
+.img-naruto-pic{
+    width: 390px;
+    height: 390px;
+    margin: 10px;
+}
+.cate-text{
+    margin: 15px;
+}
+.cate-h3{
+    font-weight: 700;
+    font-size: 1.75rem;
+}
+.cate-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cate-cloth{
+    width: 100%;
+    height: 100vh;
+}
+.img-cate-pic{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+}
+.cate-img-2{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.cate-img-cloth-2{
+    width: 295px;
+    height: 295px;
+    margin: 10px;
+}
+.cate-img-cloth-3{
+    height: 300px;
+}
+.top-seling-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-selling{
+    width: 100%;
+    height: 100%;
+}
+.image-sell-cloth{
+    width: 295px;
+    height: 395px;
+    margin: 10px;
+}
+.sell-text{
+    text-align: left;
+    font-size: 14px;
+    width: 90%; 
+    margin-bottom: 0px;
+    
+}
+.sell-h4{
+    border-bottom: 1px rgba(0, 0, 0, 0.13) solid;
+    padding: 0px 8px 8px 12px;
+    color: #5f6263;
+}
+.sell-span{
+    padding: 0px 8px 8px 12px;
+}
+.sell-span-line{
+    text-decoration: line-through;
+}
+.sell-red{
+    color: red;
+    margin-left: 10px;
+}
+.headline-banner{
+    background-color: #e71318;
+    padding: 9px;
+    margin-top: 90px;
+    margin-bottom: 25px;
+}
+.headline{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 500;
+}
+.addver-head{
+    margin-bottom: 20px;
+    font-size: 3em;
+}
+.addvertise{
+    font-weight: 700;
+}
+.footer-main{
+    background-color: #e6e7e8;
+}
+.footer-head {
+    text-align: start;
+    margin: 60px;
+}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1140px;
+    max-width: 100%;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.foot-headline{
+    color: #e71318;
+    font-size: 20px;
+    font-weight: 700;
+}
+.foot-link{
+    text-decoration: none;
+    font-weight: 600;
+    color: #58595b;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
