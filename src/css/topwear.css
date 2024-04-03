@@ -33,40 +33,45 @@
 .checkbox-text{
     margin-left: 5px;
 }
-.img-product-singal{
-    margin-left: 10px;
-    width: 220px;
-    height: 300px;
+#box{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
 }
-.pro-text{
-    list-style-type: none;
-    font-size: 14px;
-    color: rgb(88, 92, 112);
-    border-bottom: 1px rgba(0, 0, 0, 0.13) solid;
-    padding: 4px 0 3px 0;
+.image-logo{
+    width: 240px;
 }
-.pro-span{
-    color: #737577;
-    font-size: 14px;
-}
-.img-link{
-    text-decoration: none;
+.main-product-data{
     text-align: start;
 }
-.text-paroduct {
-    margin-left: 10px;
+.text-product{
+    padding-left: 10px;
+    font-size: 14px;
 }
-.prise-span{
-    color: #58595b;
+.p-title{
+    color: rgb(88, 92, 112);
     font-weight: 700;
 }
-.prise-line-span{
-    margin-left: 5px;
-    text-decoration: line-through;
+.p-category{
     color: #737577;
 }
-.prise-off{
+.p-price{
+    color: #58595b;
+}
+.p-offer{
     color: red;
-    font-size: 14px;
-    margin-left: 8px;
+}
+.singal-product-data{
+    text-align: start;
+    display: flex;
+}
+.image-singal{
+    width: 350px;
+}
+.link{
+    text-decoration: none;
+}
+.div-flex{
+    display: flex;
+    gap: 10px;
 }

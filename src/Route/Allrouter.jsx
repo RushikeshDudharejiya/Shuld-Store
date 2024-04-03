@@ -26,7 +26,7 @@ function Allrouter() {
         <Route path='/Collection' element={<Collection/>}></Route>
         <Route path='/Shopbythemes' element={<Shopbythemes/>}></Route>
         <Route path='/Signup' element={<Signup/>}></Route>
-        <Route path='/Singal' element={<Singal/>}></Route>
+        <Route path='/Singal/:id' element={<Singal/>}></Route>
       </Routes>
     </div>
   )
